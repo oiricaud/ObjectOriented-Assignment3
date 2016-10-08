@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="165.0" y="576.0">com</node>
+    <node x="0.0" y="502.0">netscape</node>
+    <node x="188.0" y="502.0">oracle</node>
+    <node x="-200.0" y="205.0">User</node>
+    <node x="0.0" y="650.0">org</node>
+    <node x="-161.0" y="310.0">Customer</node>
+    <node x="469.0" y="428.0">resources</node>
+    <node x="0.0" y="428.0">toolbarButtonGraphics</node>
+    <node x="-302.0" y="309.0">Manager</node>
+    <node x="481.0" y="576.0">sun</node>
+    <node x="-163.0" y="529.0">CreditCard</node>
+    <node x="273.0" y="428.0">META-INF</node>
+    <node x="153.0" y="650.0">jdk</node>
+    <node x="528.0" y="502.0">apple</node>
+    <node x="352.0" y="315.0">Item</node>
+    <node x="324.0" y="576.0">java</node>
+    <node x="0.0" y="576.0">javax</node>
+    <node x="538.0" y="329.0">Book</node>
+    <node x="471.0" y="231.0">Music</node>
+    <node x="474.0" y="382.0">Computer</node>
+    <node x="358.0" y="502.0">javafx</node>
+    <node x="-322.0" y="95.0">Main</node>
+    <node x="132.0" y="315.0">Cart</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Music" target="Item">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Main" target="User">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Customer" target="Cart">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Computer" target="Item">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Book" target="Item">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Cart" target="Item">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Customer" target="User">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Manager" target="User">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Cart" target="Customer">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="CreditCard" target="Customer">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Customer" target="CreditCard">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="256.0" y="416.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
